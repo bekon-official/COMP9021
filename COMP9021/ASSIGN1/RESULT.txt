@@ -1,0 +1,278 @@
+[user@sahara ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[user@sahara ~]$ 
+[user@sahara ~]$  echo '' | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+s[user@sahara ~]$  echo Please convert 4567 2345 | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 123 using | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo 'Please convert 519 minimally using '| python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 519 using ABCDE minimally | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+e[user@sahara ~]$  echo Please convert 1045 minimal | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+ [user@sahara ~]$  echo Please convert 30 THCO THCO | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+o[user@sahara ~]$  echo Please convert 51 using using ABCDE | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please please 51 using DABCDE | python3 roman_arabic.py
+hoHow can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please_concert please_convert E using E | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
+[user@sahara ~]$ 
+|[user@sahara ~]$  echo Please convert 0 | python3 roman_arabic.py
+dHow can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 010 | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 4000 | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert VV | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert IVI | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert IVX | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 1 | python3 roman_arabic.py
+How can I help you? Sure! It is I
+[user@sahara ~]$ 
+v[user@sahara ~]$  echo Please convert 69 | python3 roman_arabic.py
+How can I help you? Sure! It is LXIX
+[user@sahara ~]$ 
+o[user@sahara ~]$  echo Please convert 307 | python3 roman_arabic.py
+How can I help you? Sure! It is CCCVII
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 1110 | python3 roman_arabic.py
+How can I help you? Sure! It is MCX
+[user@sahara ~]$ 
+e[user@sahara ~]$  echo Please convert 2009 | python3 roman_arabic.py
+How can I help you? Sure! It is MMIX
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 3060 | python3 roman_arabic.py
+How can I help you? Sure! It is MMMLX
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 3984 | python3 roman_arabic.py
+How can I help you? Sure! It is MMMCMLXXXIV
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert I | python3 roman_arabic.py
+How can I help you? Sure! It is 1
+[user@sahara ~]$ 
+H[user@sahara ~]$  echo Please convert LXIX | python3 roman_arabic.py
+How can I help you? Sure! It is 69
+[user@sahara ~]$ 
+_[user@sahara ~]$  echo Please convert CCCVII | python3 roman_arabic.py
+How can I help you? Sure! It is 307
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert MCX | python3 roman_arabic.py
+How can I help you? Sure! It is 1110
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert MMIX | python3 roman_arabic.py
+How can I help you? Sure! It is 2009
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert MMMLX | python3 roman_arabic.py
+How can I help you? Sure! It is 3060
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert MMMCMLXXXIV | python3 roman_arabic.py
+How can I help you? Sure! It is 3984
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert aba using ab | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert LI using IPQL | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert ABCDEF using XYZBCDEF | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert ABCDEFGHIJKLMNOPQRST using AbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStT | python3
+ roman_arabic.py
+How can I help you? Sure! It is 11111111111111111111
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 098 using zaqws | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 4000 using lkjhgfd | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 4 using lL | python3 roman_arabic.py
+How can I help you? Sure! It is Ll
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 7 using asdfghjklpoiuyt | python3 roman_arabic.py
+How can I help you? Sure! It is ytt
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 957 using mMnNjJkKtTgGdDqQ | python3 roman_arabic.py
+How can I help you? Sure! It is GTdqQQ
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 55555 using plmnbqwert | python3 roman_arabic.py
+How can I help you? Sure! It is pmbwr
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 936936936936936 using pqowieurytLAKSDJFHGzmxncbvQPWOEIRUTY | python3 roman_a
+rabic.py
+How can I help you? Sure! It is retttLASAJJJFHzHxxxncvcPPPWOIOUUUTY
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 1020304050607080901 using qwertyuioplkjhgfdsaZXCVBNMLKJHGFDSAQWERTYUIOPzxcvb
+nm | python3 roman_arabic.py
+How can I help you? Sure! It is fZZBBBKLGAQRTTIOOOczm
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 6000000040000000008 using QWERTYUIOPlkjhgfdsaZXCVBNMmnbvcxzASDFGHJKL | pytho
+n3 roman_arabic.py
+How can I help you? Sure! It is TYCXKLLL
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert Ll using lL | python3 roman_arabic.py
+How can I help you? Sure! It is 4
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert ytt using asdfghjklpoiuyt | python3 roman_arabic.py
+How can I help you? Sure! It is 7
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert GTdqQQ using mMnNjJkKtTgGdDqQ | python3 roman_arabic.py
+How can I help you? Sure! It is 957
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert pmbwr using plmnbqwert | python3 roman_arabic.py
+How can I help you? Sure! It is 55555
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert retttLASAJJJFHzHxxxncvcPPPWOIOUUUTY using pqowieurytLAKSDJFHGzmxncbvQPWOEIRU
+TY | python3 roman_arabic.py
+How can I help you? Sure! It is 936936936936936
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert fZZBBBKLGAQRTTIOOOczm using qwertyuioplkjhgfdsaZXCVBNMLKJHGFDSAQWERTYUIOPzxc
+vbnm | python3 roman_arabic.py
+How can I help you? Sure! It is 1020304050607080901
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert TYCXKLLL using QWERTYUIOPlkjhgfdsaZXCVBNMmnbvcxzASDFGHJKL | python3 roman_ar
+abic.py
+How can I help you? Sure! It is 6000000040000000008
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert 937 minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert I0 minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert MSSM minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert ABAB minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert ABCDEFA minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert ABAAA minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert ABBACDEFGH minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert abcdeabcde minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert aaaYeXbbbcccdddeee minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert abcdefghijabcdefghij minimally | python3 roman_arabic.py
+How can I help you? Hey, ask me something that's not impossible to do!
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert X minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 1 using X
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert qp minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 4 using pq
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert LPPP minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 8 using LP
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert hjgrt minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 144 using hgjtr
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert TTTEEQ minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 321 using T_E_Q
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert ERRTYYY minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 78 using ERTY
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert IIUUUtTRRB minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 23171 using I_U_tTR_B
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert lljjggffsswwccbbnn minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 222222222 using l_j_g_f_s_w_c_b_n
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert eteuuiooolllkjjghfds minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 192837144 using e_t_uio_lkj_gfhsd
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert lllkkkjjhhmxxvvqqqppp minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 33227233 using l_k_j_hmx_v_q_p
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert kdjshffyyyMAAADDGDT minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 44738291 using dksjhf_yMA_D_G_T
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert brbwwqaaaZZZXCCKBOPL minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 192837144 using b_r_wqa_ZXC_KOBLP
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert CEEGGGIikmMoOOqQQQSR minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 73144784 using CE_G_IkiMmoOqQRS
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert uvcfdrzzzeeaQQCCCHVYRE minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 1448273144 using ucvdfrz_eaQ_C_HYVER
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert iyoppplkkjhgdazxccvbbbmb minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 487444789 using yioplkhjdgzaxcvb_m
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert KKKJJJHHZZXCVVRRQQQWWW minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 332217233 using K_J_H_Z_XCV_R_Q_W
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert tgggvnnLAAAKSSFJHDERRTWWW minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 87874478 using tgvnLAKSJFDHERTW
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert YUUIIIOoplLkKKjJJJHJGHfFFFdDDsSaZzXXXCCV minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 7314478998744821 using YU_I_OpoLlkKjJ_H_GfFdDSsZazX_C_V
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert IOOPPPLlkjJhHHgGGGFGDFsSSSaAAzZxCcVVVBBN minimally | python3 roman_arabic.py
+How can I help you? Sure! It is 7314478998744821 using IO_P_LklJjhHgG_F_DsSaAZzCxcV_B_N
+[user@sahara ~]$ 
+[user@sahara ~]$  echo Please convert fhdssszsxcccbcnmmmNmBVVVXVZAAASDGGHJLLPOUUYTEEWQ minimally | python3 roman_a
+rabic.py
+How can I help you? 

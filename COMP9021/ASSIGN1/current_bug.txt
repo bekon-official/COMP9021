@@ -1,0 +1,6 @@
+How can I help you? Please convert aba using ab
+{'b': 1, 'a': 5, 'ba': 4}
+Sure! It is 9
+How can I help you? Please convert bab using ab
+{'b': 1, 'a': 5, 'ba': 4}
+Sure! It is 5
