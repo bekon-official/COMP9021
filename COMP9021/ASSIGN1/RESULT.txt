@@ -1,41 +1,10 @@
-[user@sahara ~]$ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[user@sahara ~]$ 
-[user@sahara ~]$  echo '' | python3 roman_arabic.py
+[user@sahara ~]$ echo '' | python3 roman_arabic.py
 How can I help you? I don't get what you want, sorry mate!
 [user@sahara ~]$ 
-s[user@sahara ~]$  echo Please convert 4567 2345 | python3 roman_arabic.py
+[user@sahara ~]$  echo Please convert 4567 2345 | python3 roman_arabic.py
 How can I help you? I don't get what you want, sorry mate!
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please convert 123 using | python3 roman_arabic.py
+l[user@sahara ~]$  echo Please convert 123 using | python3 roman_arabic.py
 How can I help you? I don't get what you want, sorry mate!
 [user@sahara ~]$ 
 [user@sahara ~]$  echo 'Please convert 519 minimally using '| python3 roman_arabic.py
@@ -53,16 +22,16 @@ How can I help you? I don't get what you want, sorry mate!
 o[user@sahara ~]$  echo Please convert 51 using using ABCDE | python3 roman_arabic.py
 How can I help you? I don't get what you want, sorry mate!
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please please 51 using DABCDE | python3 roman_arabic.py
-hoHow can I help you? I don't get what you want, sorry mate!
+p[user@sahara ~]$  echo Please please 51 using DABCDE | python3 roman_arabic.py
+How can I help you? I don't get what you want, sorry mate!
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please_concert please_convert E using E | python3 roman_arabic.py
+n[user@sahara ~]$  echo Please_concert please_convert E using E | python3 roman_arabic.py
 How can I help you? I don't get what you want, sorry mate!
 [user@sahara ~]$ 
 |[user@sahara ~]$  echo Please convert 0 | python3 roman_arabic.py
-dHow can I help you? Hey, ask me something that's not impossible to do!
+How can I help you? Hey, ask me something that's not impossible to do!
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please convert 010 | python3 roman_arabic.py
+j[user@sahara ~]$  echo Please convert 010 | python3 roman_arabic.py
 How can I help you? Hey, ask me something that's not impossible to do!
 [user@sahara ~]$ 
 [user@sahara ~]$  echo Please convert 4000 | python3 roman_arabic.py
@@ -71,13 +40,13 @@ How can I help you? Hey, ask me something that's not impossible to do!
 [user@sahara ~]$  echo Please convert VV | python3 roman_arabic.py
 How can I help you? Hey, ask me something that's not impossible to do!
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please convert IVI | python3 roman_arabic.py
+E[user@sahara ~]$  echo Please convert IVI | python3 roman_arabic.py
 How can I help you? Hey, ask me something that's not impossible to do!
 [user@sahara ~]$ 
 [user@sahara ~]$  echo Please convert IVX | python3 roman_arabic.py
 How can I help you? Hey, ask me something that's not impossible to do!
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please convert 1 | python3 roman_arabic.py
+i[user@sahara ~]$  echo Please convert 1 | python3 roman_arabic.py
 How can I help you? Sure! It is I
 [user@sahara ~]$ 
 v[user@sahara ~]$  echo Please convert 69 | python3 roman_arabic.py
@@ -86,16 +55,16 @@ How can I help you? Sure! It is LXIX
 o[user@sahara ~]$  echo Please convert 307 | python3 roman_arabic.py
 How can I help you? Sure! It is CCCVII
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please convert 1110 | python3 roman_arabic.py
+R[user@sahara ~]$  echo Please convert 1110 | python3 roman_arabic.py
 How can I help you? Sure! It is MCX
 [user@sahara ~]$ 
-e[user@sahara ~]$  echo Please convert 2009 | python3 roman_arabic.py
+[user@sahara ~]$  echo Please convert 2009 | python3 roman_arabic.py
 How can I help you? Sure! It is MMIX
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please convert 3060 | python3 roman_arabic.py
+t[user@sahara ~]$  echo Please convert 3060 | python3 roman_arabic.py
 How can I help you? Sure! It is MMMLX
 [user@sahara ~]$ 
-[user@sahara ~]$  echo Please convert 3984 | python3 roman_arabic.py
+l[user@sahara ~]$  echo Please convert 3984 | python3 roman_arabic.py
 How can I help you? Sure! It is MMMCMLXXXIV
 [user@sahara ~]$ 
 [user@sahara ~]$  echo Please convert I | python3 roman_arabic.py
